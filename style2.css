@@ -1,0 +1,177 @@
+body{
+    font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  text-rendering: optimizeLegibility;
+}
+
+a{
+    text-decoration: none;
+}
+
+.linkk1{
+    color: #fff;
+    border-bottom: 2px solid #fff;
+}
+
+.dark, .strip-dark, .stripped-dark {
+  background-color: #918af1;
+  color: #e7e5e4;
+}
+
+section {
+  padding: 20px 80px 60px 80px;
+}
+
+.section-title {
+  text-align: center;
+  font-size: 30px;
+  line-height: 60px;
+}
+.section-title-c {
+  text-align: center;
+  font-size: 30px;
+  line-height: 60px;
+  color:#918af1;
+  padding-top: 20px;
+}
+.section-content-с {
+  font-size: 18px;
+  line-height: 26px;
+  text-align: justify;
+    color:#918af1;
+
+}
+.section-content {
+  font-size: 18px;
+  line-height: 26px;
+  text-align: justify;
+
+}
+
+.section-c {
+  padding-top: 25px;
+  font-size: 45px;
+  text-align: center;
+}
+
+.light, .strip-light, .stripped-light {
+  background-color: #e7e5e4;
+  color: #131313;
+}
+
+.ycheba {
+  background-color: #e7e5e4;
+}
+
+section {
+  padding: 20px 80px 60px 80px;
+}
+
+
+.section-content {
+  font-size: 18px;
+  line-height: 26px;
+  text-align: justify;
+}
+
+.ph{
+
+    display: inline-block;
+   
+}
+
+.ph2{
+    margin-left: 30px;
+}
+
+.text{
+    font-size: 20px;
+  line-height: 26px;
+  padding-left: 8%;
+  text-align: center;
+    font-weight: bold;
+}
+
+.hob{
+  font-size: 20px;
+line-height: 26px;
+padding-left: 4%;
+text-align: center;
+  font-weight: bold;
+}
+
+.mody {
+  text-align: center;
+    font-size: 30px;
+}
+
+.mod{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 12%;
+}
+.ph1{
+   
+    margin-left: 260px;
+}
+
+
+.ph_1{
+    display: inline-block;
+    margin: 27px 0 30px 160px;
+
+
+}
+
+.ph3{
+    margin-left: 60px;
+}
+
+.ph4{
+  text-align: center;
+}
+
+.ph5{
+  text-align: center;
+  padding-left: 2%;
+}
+
+
+.vl {
+  border-left: 3px solid #fff;
+  height: 15vh;
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 1%;
+  text-align: center;
+  padding-bottom: 1%;
+}
+
+.zerkalo {
+  margin-top: 2%;
+}
+
+.photo {
+  text-align: center;
+  padding-left: 8%;
+   }
+
+.good {
+  font-size: 18px;
+line-height: 26px;
+padding-left: 8%;
+text-align: center;
+  font-weight: bold;
+}
+
+.a{
+    font-size: 22px;
+    margin-left: 200px;
+    color: #000;
+}
+.footer{
+  font-size: 18px;
+padding-left: 8%;
+text-align: center;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
